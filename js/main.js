@@ -19,7 +19,7 @@ const age = prompt("Inserisci la tua età");
 document.getElementById("first-name").innerHTML = firstName;
 document.getElementById("last-name").innerHTML =  lastName;
 document.getElementById("fav-color").innerHTML =  favColor;
-document.getElementById("fixed-number").innerHTML =  fixedNumber;
+
 document.getElementById("age").innerHTML = age;
 
 console.log(firstName + lastName + favColor + fixedNumber);
